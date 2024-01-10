@@ -1,0 +1,21 @@
+● employeeProject
+|
++---● employeePage (app folder)
+|   |
+|   +--● migrations (includes files related to migrations)
+|   |  
+|   +--● templates
+|   |  |--● employeePage
+|   |  |  |--base.html
+|   |  |  |--employeeForm.html
+|   |  |  |--employeeList.html
+|   | 
+|   |-- models.py
+|   |-- forms.py
+|   |-- urls.py
+|   |-- views.py
+|
++---● employeeProject (project folder)
+|   |
+|   |--settings.py 
+|   |--urls.py
